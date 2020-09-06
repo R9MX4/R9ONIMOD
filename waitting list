@@ -1,0 +1,32 @@
+[A] darkness
+--add dark
+--add buff/debuff
+    * move speed
+    * pressure
+    * pathfinder
+--rebuild lighting system
+--add more light source
+    * small tourch
+    * spot light
+    * light cloth
+    * lightbug
+    
+[R] pipe pressure system rebuild
+--rebuild vent overpressure condition
+--add pipe pressure
+--pressure change
+    * movement horizational, down, up
+    * algorithm !!!
+--rebuild gas/liqud pipe system
+    * vent
+    * pump
+    * pipe
+    * pressurizer
+
+[R] power grid system rebuild
+--wire consume power
+
+[C] world
+--surface heated by sunlight
+--surface cooling by radiation
+--add surface radiator
