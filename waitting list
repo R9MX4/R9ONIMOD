@@ -30,3 +30,5 @@
 --surface heated by sunlight
 --surface cooling by radiation
 --add surface radiator
+
+[R] rebuild heat exhaust
