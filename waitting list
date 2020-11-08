@@ -27,8 +27,4 @@
 --wire consume power
 
 [C] world
---surface heated by sunlight
---surface cooling by radiation
 --add surface radiator
-
-[R] rebuild heat exhaust
